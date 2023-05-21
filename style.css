@@ -1,0 +1,47 @@
+
+.container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 0 20px;
+    background-image: url("https://tse4.mm.bing.net/th/id/OIP.L42t4SIQ1Jv4BvQAKRhukAHaEo?pid=ImgDet&rs=1");
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-top: 120px;
+    color: #ffffff;
+    padding-left: 25px;
+}
+
+.typing-box {
+    margin-bottom: 20px;
+}
+
+#current-key {
+    font-size: 40px;
+    color: #ffffff;
+    padding-left: 20px;
+}
+
+#user-input {
+    font-size: 20px;
+    padding: 10px;
+    width: 70%;
+    box-sizing: border-box;
+
+}
+
+.stats {
+    font-size: 16px;
+}
+
+.stats p {
+    margin-bottom: 5px;
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 20px;
+}
